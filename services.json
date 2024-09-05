@@ -1,1 +1,8 @@
-hello world
+{
+  "raspi-garage-solar": {
+    "cloudflared": true
+  },
+  "raspi-home-zeus": {
+    "cloudflared": true
+  }
+}
