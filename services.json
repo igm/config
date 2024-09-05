@@ -4,5 +4,8 @@
   },
   "raspi-home-zeus": {
     "cloudflared": true
+  },
+  "demo": {
+    "cloudflared": true
   }
 }
