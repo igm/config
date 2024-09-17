@@ -2,6 +2,9 @@
   "raspi-garage-solar": {
     "cloudflared": false
   },
+  "pi-home-orange": {
+    "cloudflared": true
+  },
   "raspi-home-zeus": {
     "cloudflared": true
   }
