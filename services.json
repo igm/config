@@ -1,6 +1,6 @@
 {
   "raspi-garage-solar": {
-    "cloudflared": false
+    "cloudflared": true
   },
   "orapi-garage-solar": {
     "cloudflared": false
