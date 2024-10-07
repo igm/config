@@ -3,7 +3,7 @@
     "cloudflared": true
   },
   "orapi-garage-solar": {
-    "cloudflared": true
+    "cloudflared": false
   },
   "raspi-home-zeus": {
     "cloudflared": true
